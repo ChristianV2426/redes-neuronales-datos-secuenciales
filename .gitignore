@@ -24,3 +24,5 @@ dist/
 # Environment variables and local editor settings
 .env
 .vscode/
+
+resultados_keras_tuner/
